@@ -1,2 +1,2 @@
-some new text!
+Some new text!
 
